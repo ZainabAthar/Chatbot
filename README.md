@@ -1,4 +1,4 @@
-# Chatbot with OpenAI API and LangChain
+# Chatbot with RAG 
 
 This repository contains a chatbot created using OpenAI's API with LangChain. The chatbot integrates several components to ensure efficient and accurate responses.
 
