@@ -12,8 +12,6 @@ This repository contains a chatbot created using OpenAI's API with LangChain. Th
 - **OpenAI Embedding**: Applied for embeddings with customizable batch size and chunk size.
 - **Flowise**: Used for testing the chatbot model to ensure its functionality.
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x
